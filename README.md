@@ -130,7 +130,7 @@ Visual cursor indicates active streaming
 Fallback to normal mode if streaming fails
 
 🎥 Demo Video
-<!-- Add your video link here -->
+https://www.loom.com/share/954fdb9802ab46c88c1f6171478b11a0
 Watch Demo Video
 
 🚧 Future Improvements
